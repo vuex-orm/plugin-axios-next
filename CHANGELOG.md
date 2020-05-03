@@ -1,3 +1,12 @@
+# [1.0.0-draft.1](https://github.com/vuex-orm/plugin-axios/compare/v1.0.0-draft.0...v1.0.0-draft.1) (2020-05-03)
+
+
+### Bug Fixes
+
+* move types out of index to support nuxt axios module integration ([a2a9c24](https://github.com/vuex-orm/plugin-axios/commit/a2a9c2455ad4934c89affe08a7057b8bb83e9937))
+
+
+
 # 1.0.0-beta.0 (2020-05-03)
 
 
