@@ -1,3 +1,12 @@
+# [1.0.0-draft.2](https://github.com/vuex-orm/plugin-axios/compare/v1.0.0-draft.1...v1.0.0-draft.2) (2020-05-03)
+
+
+### Features
+
+* adopt to @vuex-orm/core@1.0.0-draft.4 ([cf6d5a7](https://github.com/vuex-orm/plugin-axios/commit/cf6d5a7d9e963df6bb4064a74a0369a98d5465c2))
+
+
+
 # [1.0.0-draft.1](https://github.com/vuex-orm/plugin-axios/compare/v1.0.0-draft.0...v1.0.0-draft.1) (2020-05-03)
 
 
