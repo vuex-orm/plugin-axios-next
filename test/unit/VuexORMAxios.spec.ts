@@ -1,7 +1,7 @@
 import axios from 'axios'
 import Vue from 'vue'
 import Vuex, { Store } from 'vuex'
-import VuexORM, { Database, Model } from '@vuex-orm/core'
+import VuexORM, { Model } from '@vuex-orm/core'
 import VuexORMAxios from '@/index'
 
 Vue.use(Vuex)
@@ -13,12 +13,8 @@ describe('unit/VuexORMAxios', () => {
   }
 
   it('can install the plugin', () => {
-    const database = new Database()
-
-    database.register(User)
-
     const store = new Store({
-      plugins: [VuexORM.install(database)],
+      plugins: [VuexORM.install()],
       strict: true
     })
 

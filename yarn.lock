@@ -1534,10 +1534,10 @@
     vuepress-plugin-container "^2.0.2"
     vuepress-plugin-smooth-scroll "^0.0.3"
 
-"@vuex-orm/core@1.0.0-draft.3":
-  version "1.0.0-draft.3"
-  resolved "https://registry.yarnpkg.com/@vuex-orm/core/-/core-1.0.0-draft.3.tgz#8fc270c96b2f524de7a0da5af3b5bce7e169d596"
-  integrity sha512-0BAUC5vCIfJIuJYHnbFv45t9MlsmppXRhmSTJtK6IaoMxkduIVaGtB445BRf2miqjsrAdSK9g3GkN4edl517/Q==
+"@vuex-orm/core@1.0.0-draft.4":
+  version "1.0.0-draft.4"
+  resolved "https://registry.yarnpkg.com/@vuex-orm/core/-/core-1.0.0-draft.4.tgz#1ab5a6366c4d72fdd27a816a8fb6b5451efd7174"
+  integrity sha512-O6y1u5oFTz7mia5rpB/NkuvrxRuFP7gr0Ah73htEkz9dh90Vv+GJxPE16HhHktxXLzrw4c7dMXPbS9Xegms1mQ==
   dependencies:
     normalizr "^3.6.0"
 

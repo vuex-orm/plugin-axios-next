@@ -8,7 +8,7 @@ export interface Options {
 }
 
 export const VuexORMAxios: VuexORMPlugin = {
-  install(store, _database, components, options: Options = {}) {
+  install(store, components, options: Options = {}) {
     storeMixin(store, options.axios)
     repositoryMixin(components.Repository)
   }
