@@ -1,3 +1,7 @@
+# 1.0.0-beta.0 (2020-05-03)
+
+
+
 ## [0.9.2](https://github.com/vuex-orm/plugin-axios/compare/v0.9.1...v0.9.2) (2019-11-25)
 
 
