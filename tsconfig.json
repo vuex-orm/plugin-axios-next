@@ -41,10 +41,12 @@
 
   "include": [
     "src",
-    "test"
+    "test",
+    "types"
   ],
 
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "types/nuxt"
   ]
 }

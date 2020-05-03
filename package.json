@@ -9,7 +9,8 @@
   "jsdelivr": "dist/vuex-orm-axios.global.js",
   "typings": "dist/src/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "types"
   ],
   "scripts": {
     "build": "node scripts/build.js",

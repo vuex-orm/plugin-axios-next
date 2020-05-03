@@ -16,7 +16,7 @@ const versionIncrements = [
   'prerelease'
 ]
 
-const inc = (i) => semver.inc(currentVersion, i, 'beta')
+const inc = (i) => semver.inc(currentVersion, i, 'draft')
 const bin = (name) => path.resolve(__dirname, `../node_modules/.bin/${name}`)
 const run = (bin, args, opts = {}) => execa(bin, args, { stdio: 'inherit', ...opts })
 const step = (msg) => console.log(chalk.cyan(msg))
